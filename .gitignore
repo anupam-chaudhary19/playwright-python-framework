@@ -1,0 +1,53 @@
+# Python cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+
+venv/
+env/
+.venv/
+
+# Pytest cache
+
+.pytest_cache/
+
+# Playwright browser files
+
+playwright-report/
+test-results/
+
+# Allure reports
+
+allure-results/
+allure-report/
+
+# Test reports
+
+reports/
+htmlcov/
+
+# Screenshots
+
+screenshots/
+
+# Logs
+
+*.log
+
+# Environment variables
+
+.env
+
+# IDE files
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
