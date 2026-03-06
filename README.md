@@ -48,7 +48,7 @@ playwright_framework
 Clone the repository:
 
 ```
-git clone <repository-url>
+git clone https://github.com/anupam-chaudhary19/playwright-python-framework.git
 ```
 
 Move into the project directory:
